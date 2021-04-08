@@ -2,7 +2,7 @@
 
 # Hammock Color Scheme
 
-A dark color scheme that is relaxing for your eyes.
+A dark color scheme that lets your eyes relax.
 
 ![hammock syntax highlighting screenshot](https://alanlynn.github.io/hammock/screenshot.png)
 
