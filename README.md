@@ -6,7 +6,7 @@ A dark color scheme that lets your eyes relax.
 
 ![hammock syntax highlighting screenshot](https://alanlynn.github.io/hammock/screenshot.png)
 
-The Hammock color scheme enables syntax highlighting with gentle colors that go well together. It was built using [Base16](https://github.com/chriskempson/base16).
+Enjoy syntax highlighting with gentle colors that go well together.
 
 
 ## Download
@@ -20,10 +20,11 @@ Choose your editor:
 
 ## Building
 
-Get the templates for your desired editor(s) from https://github.com/chriskempson/base16#template-repositories
+Hammock is built using [Base16](https://github.com/chriskempson/base16).
 
-Set your directory structure up like this:
+1. Get the templates for your desired editor(s) from the [Base16 template repositories](https://github.com/chriskempson/base16#template-repositories).
 
+2. Set your directory structure up like this:
 ```
 .
 ├──schemes
@@ -36,7 +37,7 @@ Set your directory structure up like this:
             └── default.mustache
 ```
 
-Then run a Base16 builder from https://github.com/chriskempson/base16#builder-repositories
+3. Run a Base16 builder from the [Base16 builder repositories](https://github.com/chriskempson/base16#builder-repositories).
 
 
 ## License
