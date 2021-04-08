@@ -12,9 +12,9 @@ Enjoy syntax highlighting with gentle colors that go well together.
 ## Download
 
 Choose your editor:
-* [Sublime Text](https://github.com/AlanLynn/hammock-sublime-textmate#readme)
-* [TextMate](https://github.com/AlanLynn/hammock-sublime-textmate#readme)
-* [Visual Studio Code](https://github.com/AlanLynn/hammock-vscode#readme)
+* [Sublime Text](https://github.com/AlanLynn/hammock-sublime-textmate#installing)
+* [TextMate](https://github.com/AlanLynn/hammock-sublime-textmate#installing)
+* [Visual Studio Code](https://github.com/AlanLynn/hammock-vscode#installing)
 * [Other - How to build](#building)
 
 
