@@ -12,9 +12,9 @@ The Hammock color scheme enables syntax highlighting with gentle colors that go 
 ## Download
 
 Choose your editor:
-* [Sublime Text](https://github.com/AlanLynn/hammock-sublime-textmate)
-* [TextMate](https://github.com/AlanLynn/hammock-sublime-textmate)
-* [Visual Studio Code](https://github.com/AlanLynn/hammock-vscode)
+* [Sublime Text](https://github.com/AlanLynn/hammock-sublime-textmate#readme)
+* [TextMate](https://github.com/AlanLynn/hammock-sublime-textmate#readme)
+* [Visual Studio Code](https://github.com/AlanLynn/hammock-vscode#readme)
 * [Other - How to build](#building)
 
 
