@@ -40,6 +40,15 @@ Hammock is built using [Base16](https://github.com/chriskempson/base16).
 3. Run a Base16 builder from the [Base16 builder repositories](https://github.com/chriskempson/base16#builder-repositories).
 
 
+## How It Was Made
+
+I used a 3D engine to shine a colored light on 16 colored squares. My hope was that putting all the colors in the same lighting would make them look like they go together.
+
+![blender 3d engine screenshot of 16 colored squares](https://alanlynn.github.io/hammock/3d-scene.jpg)
+
+Does it actually do anything useful? I don't know. If you want to try it for yourself, open [colors.blend](colors.blend) in [Blender](https://www.blender.org/). You might want to change ```Render Properties -> Color Management -> View Transform``` to ```Filmic```.
+
+
 ## License
 
 * Source code: [MIT](https://choosealicense.com/licenses/mit/)
